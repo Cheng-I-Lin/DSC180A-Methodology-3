@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Cheng-I Lin
-chl236@ucsd.edu
+Cheng-I Lin and Po-Chen Lin
